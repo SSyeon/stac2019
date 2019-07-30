@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="job">
+        <item>재학</item>
+        <item>중퇴</item>
+        <item>해당사항없음</item>
+    </string-array>
+
+</resources>
