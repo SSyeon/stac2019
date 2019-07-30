@@ -16,6 +16,7 @@ class InformationActivity : AppCompatActivity() {
         }
 
         backButton.setOnClickListener{
+
             finish()
         }
     }
